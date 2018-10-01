@@ -1,0 +1,13 @@
+{
+  "name": "06-webserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts" : {
+    "start" : "node app"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
